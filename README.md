@@ -37,7 +37,6 @@ Welcome to the Machine Learning / Deep Learning Streamlit App Challenge! In this
   - Python
   - Streamlit
   - scikit-learn
-  - XGBoost
   - TensorFlow (for DL models, if applicable)
 
 - **UI Requirement:** Must use **Streamlit** for frontend development.
